@@ -32,19 +32,21 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
- 
  
 ### Connect with me🚀:  
 <p>
   <a href="https://www.linkedin.com/in/sahaj-ghatiya169/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30px" width="30px" alt="LinkedIn"></a>
-  <a href="mailto:sahajghatiya531.sg@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/sahaj169/sahaj169/blob/main/Gmail.png" height="30px" width="30px" alt="Gmail" ></a>
+  <a href="mailto:sahajghatiya531.sg@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30px" width="30px" alt="Gmail" ></a>
   <a href="https://www.facebook.com/sahaj.ghatiya"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" height="30px" width="30px" alt="Facebook"></a>
   <a href="https://twitter.com/ghatiya_sahaj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30px" width="30px" alt="Twitter"></a>
   <a href="https://www.instagram.com/sahaj_ghaatiya169/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="30px" width="30px" alt="Instagram"></a>
