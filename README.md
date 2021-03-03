@@ -42,7 +42,7 @@
 <code><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4"></code>
-
+<code><img height="30" src="https://raw.githubusercontent.com/pygame/pygame/main/docs/pygame_logo.gif"></code>
  
 ### Connect with me🚀:  
 <p>
