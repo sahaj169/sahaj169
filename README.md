@@ -1,4 +1,4 @@
-<h1 align="center">< Hello there Computer Geeks👨🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> /></h1>
+<h1 align="center">< Hello there Programming Geeks👨🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> /></h1>
 
 <!--
 **sahaj169/sahaj169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
