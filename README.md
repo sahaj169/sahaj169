@@ -1,6 +1,8 @@
 <h1 align="center">< Hello there Programming Geeks👨🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> /></h1>
+
 <hr>
 My name is Sahaj Ghatiya <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
+
 **I am a CSE-AIML student at SRM Institute of Science and Technology, Chennai.**
 **I am currently building skills to become a Machine Learning Developer**
 **I just love making useful projects by learning and implimenting different modules and libraries in python. I love coding in python.**
