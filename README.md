@@ -40,22 +40,14 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
  
- ### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
- 
- 
  
 ### Connect with me🚀:  
 <p>
-  <a href="https://www.linkedin.com/in/sahaj-ghatiya169/"><img src="https://raw.githubusercontent.com/sahaj169/sahaj169/main/Linkedin.png" height="30px" width="30px" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sahaj-ghatiya169/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30px" width="30px" alt="LinkedIn"></a>
   <a href="mailto:sahajghatiya531.sg@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/sahaj169/sahaj169/blob/main/Gmail.png" height="30px" width="30px" alt="Gmail" ></a>
-  <a href="https://www.facebook.com/sahaj.ghatiya"><img src="https://github.com/sahaj169/sahaj169/blob/main/Facebook.png" height="30px" width="30px" alt="Facebook"></a>
+  <a href="https://www.facebook.com/sahaj.ghatiya"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" height="30px" width="30px" alt="Facebook"></a>
   <a href="https://twitter.com/ghatiya_sahaj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30px" width="30px" alt="Twitter"></a>
-  <a href="https://www.instagram.com/sahaj_ghaatiya169/"><img src="https://github.com/sahaj169/sahaj169/blob/main/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
+  <a href="https://www.instagram.com/sahaj_ghaatiya169/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="30px" width="30px" alt="Instagram"></a>
 </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
