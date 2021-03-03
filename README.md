@@ -15,18 +15,29 @@
     <td><img src="https://profile-counter.glitch.me/sahaj169/count.svg" alt="You are vistor number: " height="30" /></td>
   </tr>
 </table>
-<hr>
-<!--
-**sahaj169/sahaj169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on making more such useful projects.
+- 🌱 I’m currently learning Machine learning and some python modules
+- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Feel free to drop a message or any query
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <br/>
+  <p>
+    <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=sahaj169&show_icons=true&theme=tokyonight">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj169&theme=radical)](https://github.com/sahaj169/github-readme-stats)
+  <p>
+</details>
+
+
+
+
+
+
+
+
+
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
