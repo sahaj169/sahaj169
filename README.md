@@ -1,8 +1,8 @@
-<h1 align="center">< Hello there Programming Geeks👨🏻‍💻</h1>
-
+<h1 align="center">< Hello there Computer Geeks👨🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> /></h1>
 <hr>
-My name is Sahaj Ghatiya <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> />
-**I am a CSE-AIML student at SRM Institute of Science and Technology, Chennai.**
+## Vedansh here🙋🏻‍♂️
+### Here is something you should know about me😄 
+**I am Sophomore🎓 pursuing Computer-Science-Engineering-AIML at SRM Institute of Science and Technology, Chennai.**
 **I am currently building skills to become a Machine Learning Developer**
 **I just love making useful projects by learning and implimenting different modules and libraries in python. I love coding in python.**
 **Here are few of my projects, feel free to explore and modify them! 😄**
@@ -15,7 +15,6 @@ My name is Sahaj Ghatiya <img src="https://github.com/iamshubhamg/iamshubhamg/bl
   </tr>
 </table>
 <hr>
-
 <!--
 **sahaj169/sahaj169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
