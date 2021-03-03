@@ -26,13 +26,31 @@
  #### :zap: Guithub Stats:
  ![Sahaj's github stats](https://github-readme-stats.vercel.app/api?username=sahaj169&show_icons=true&theme=tokyonight)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj169&layout=compact&theme=tokyonight)](https://github.com/sahaj169/sahaj169)
  
+ 
+ 
+ ### Languages and tools⚙:  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+ 
+ 
+ 
+ 
+ 
 ### Connect with me🚀:  
 <p>
-  <a href="https://www.linkedin.com/in/sahaj-ghatiya169/"><img src="https://github.com/sahaj169/sahaj169/Linkedin.png" height="30px" width="30px" alt="LinkedIn"></a>
-  <a href="mailto:sahajghatiya531.sg@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/sahaj169/sahaj169/blob/master/Gmail.png" height="30px" width="30px" alt="Gmail" ></a>
-  <a href="https://www.facebook.com/sahaj.ghatiya"><img src="https://github.com/sahaj169/sahaj169/Facebook.png" height="30px" width="30px" alt="Facebook"></a>
-  <a href="https://twitter.com/ghatiya_sahaj"><img src="https://github.com/sahaj169/sahaj169/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
-  <a href="https://www.instagram.com/sahaj_ghaatiya169/"><img src="https://github.com/sahaj169/sahaj169/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/sahaj-ghatiya169/"><img src="https://raw.githubusercontent.com/sahaj169/sahaj169/main/Linkedin.png" height="30px" width="30px" alt="LinkedIn"></a>
+  <a href="mailto:sahajghatiya531.sg@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/sahaj169/sahaj169/blob/main/Gmail.png" height="30px" width="30px" alt="Gmail" ></a>
+  <a href="https://www.facebook.com/sahaj.ghatiya"><img src="https://github.com/sahaj169/sahaj169/blob/main/Facebook.png" height="30px" width="30px" alt="Facebook"></a>
+  <a href="https://twitter.com/ghatiya_sahaj"><img src="https://github.com/sahaj169/sahaj169/blob/main/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
+  <a href="https://www.instagram.com/sahaj_ghaatiya169/"><img src="https://github.com/sahaj169/sahaj169/blob/main/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
 </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
