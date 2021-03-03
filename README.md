@@ -1,11 +1,12 @@
 <h1 align="center">< Hello there Computer Geeks👨🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> /></h1>
-<hr>
-## Vedansh here🙋🏻‍♂️
+
+## Sahaj Ghatiya here🙋🏻‍♂️
 ### Here is something you should know about me😄 
+
 **I am Sophomore🎓 pursuing Computer-Science-Engineering-AIML at SRM Institute of Science and Technology, Chennai.**
 **I am currently building skills to become a Machine Learning Developer**
 **I just love making useful projects by learning and implimenting different modules and libraries in python. I love coding in python.**
-**Here are few of my projects, feel free to explore and modify them! 😄**
+**Here are few of my projects, feel free to explore and help me improve them! 😄**
 
 <hr>
 <table>
