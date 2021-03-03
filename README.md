@@ -21,14 +21,8 @@
 - 🤔 I’m looking for help with Machine learning Algorithms
 - 💬 Feel free to drop a message or any query
 
-<details>
-  <summary>Github Stats</summary>
-  <br/>
-  <p>
-    <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=sahaj169&show_icons=true&theme=tokyonight">
-  <p>
-</details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj169&theme=radical)](https://github.com/sahaj169/github-readme-stats)
+
+![Sahaj's github stats](https://github-readme-stats.vercel.app/api?username=sahaj169&show_icons=true&theme=tokyonight)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj169&layout=compact&theme=tokyonight)](https://github.com/sahaj169/sahaj169)
 
 
 
