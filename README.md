@@ -22,14 +22,13 @@
 - 💬 Feel free to drop a message or any query
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>Github Stats</summary>
   <br/>
   <p>
     <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=sahaj169&show_icons=true&theme=tokyonight">
-    <img height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj169&theme=radical"/>
-<!--     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj169&theme=radical)](https://github.com/sahaj169/github-readme-stats) -->
   <p>
 </details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj169&theme=radical)](https://github.com/sahaj169/github-readme-stats)
 
 
 
