@@ -18,8 +18,7 @@
 
 - 🔭 I’m currently working on making more such useful projects.
 - 🌱 I’m currently learning Machine learning and some python modules
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Machine learning Algorithms
 - 💬 Feel free to drop a message or any query
 
 <details>
@@ -27,7 +26,8 @@
   <br/>
   <p>
     <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=sahaj169&show_icons=true&theme=tokyonight">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj169&theme=radical)](https://github.com/sahaj169/github-readme-stats)
+    <img height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj169&theme=radical"/>
+<!--     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj169&theme=radical)](https://github.com/sahaj169/github-readme-stats) -->
   <p>
 </details>
 
