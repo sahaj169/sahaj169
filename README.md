@@ -1,4 +1,4 @@
-<h1 align="center">< Hello there Computer Geeks👨🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> /></h1>
+<h1 align="center">< Hello there Programming Geeks👨🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> /></h1>
 
 ## Sahaj Ghatiya here🙋🏻‍♂️
 ### Here is something you should know about me😄 
@@ -26,3 +26,13 @@
  #### :zap: Guithub Stats:
  ![Sahaj's github stats](https://github-readme-stats.vercel.app/api?username=sahaj169&show_icons=true&theme=tokyonight)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaj169&layout=compact&theme=tokyonight)](https://github.com/sahaj169/sahaj169)
  
+### Connect with me🚀:  
+<p>
+  <a href="https://www.linkedin.com/in/sahaj-ghatiya169/"><img src="https://github.com/sahaj169/sahaj169/blob/master/Linkedin.png" height="30px" width="30px" alt="LinkedIn"></a>
+  <a href="mailto:sahajghatiya531.sg@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/sahaj169/sahaj169/blob/master/Gmail.png" height="30px" width="30px" alt="Gmail" ></a>
+  <a href="https://www.facebook.com/sahaj.ghatiya"><img src="https://github.com/sahaj169/sahaj169/blob/master/Facebook.png" height="30px" width="30px" alt="Facebook"></a>
+  <a href="https://twitter.com/ghatiya_sahaj"><img src="https://github.com/sahaj169/sahaj169/blob/master/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
+  <a href="https://www.instagram.com/sahaj_ghaatiya169/"><img src="https://github.com/sahaj169/sahaj169/blob/master/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
+</p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
