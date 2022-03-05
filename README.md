@@ -4,7 +4,7 @@
 ### Here is something you should know about me😄 
 
 **I am in 3rd year🎓 pursuing Computer-Science-Engineering-AIML at SRM Institute of Science and Technology, Chennai.**
-**I am currently building skills to become a Machine Learning Developer**
+**I am currently a Full Stack Web-Developer and working on new skills in this field**
 **I just love making useful projects by learning and implementing different modules and libraries in python. I love coding in python.**
 **Here are few of my projects, feel free to explore and help me improve them! 😄**
 
