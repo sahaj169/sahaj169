@@ -1,7 +1,6 @@
 <h1 align="center">< Hello there Programming Geeks👨🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> /></h1>
 
 ## Sahaj Ghatiya here🙋🏻‍♂️
-### Here is something you should know about me😄 
 **Here are few of my projects, feel free to explore and help me improve them! 😄**
 
 <hr>
